@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 1440px;
+    height:900px;
+}
+
+.item1 {
+    background: black;
+    width: 10%;
+    height: 20%;
+    float: left;
+  }
+
+.item2 {
+    background: white;
+    width: 10%;
+    height: 20%;
+    float: left;
+  }
